@@ -1,0 +1,8 @@
+{
+  "name": "ej-fightclub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0b1b1622"
+}
